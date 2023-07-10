@@ -1,4 +1,4 @@
-# Shalu_mk
+# shalu_mk
 My personal repository."
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
 <h1 align="center">Hi 👋, I'm shalu-mk</h1>
